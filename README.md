@@ -13,6 +13,7 @@
 ## 使用前建议阅读
 - [LaTeX新手指南](https://github.com/ustctug/ustcthesis/wiki/新手指南)
 - [毕业论文（设计）工作进度安排](https://github.com/CosmosLiang/LZUthesis/wiki/毕业论文设计工作进度安排)
+- [LaTeX Beamer使用简介]（https://www.liangye.site/2018/04/25/latex-beamer-advanced-tutorial/）
 ## 兰州大学本科生毕业论文要求备注
 1. 《兰州大学本科生毕业论文（设计）开题报告登记表》在**第7学期10-12周**完成。（具体日期请见学院通知）
 
